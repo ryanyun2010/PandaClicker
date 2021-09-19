@@ -1,0 +1,7 @@
+Let's make a game!
+name: Panda Clicker
+author: PandaMan
+desc: Cookie Clicker with PANDAS
+version: 0.1
+Settings
+background:
