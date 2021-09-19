@@ -4,4 +4,7 @@ author: PandaMan
 desc: Cookie Clicker with PANDAS
 version: 0.1
 Settings
-background:
+background: https://github.com/ryanyun2010/PandaClicker/raw/main/background.jpg
+building cost increase: 115%
+building cost refund: 50%
+spritesheet:icons, 48 by 48, https://github.com/ryanyun2010/PandaClicker/raw/main/spritesheet.jpg
